@@ -1,0 +1,10 @@
+<!Doctype html>
+  <html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Whatever</title>
+    </head>
+    <body>
+        <h1 text-align="center">Das hier ist eine Überschrift</h1>
+    </body>
+  </html>
